@@ -1,0 +1,34 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:480px;
+    padding:20px;
+	
+    border-radius:25px;
+}
+.highlight {
+    background-color: yellow;
+}
+
+.maindiv input{
+	
+	display: inline-block;
+	margin-left:80px
+}
+
+.elements{
+	
+	padding-left:40px;
+}
+
+input[type="range"] {
+	margin-left:100px;
+  width:100px;
+}
+select {
+	display: inline-block;
+	margin-left:45px
+ 
+}
